@@ -1,12 +1,13 @@
 :host{
     display: block;
     color: white;
-    padding: 3rem 2rem;
+    padding: 4rem 2rem 6rem;
 }
 
 .container{
     gap: 2rem;
     display: grid;
+    box-sizing: inherit;
 }
 
 table {
